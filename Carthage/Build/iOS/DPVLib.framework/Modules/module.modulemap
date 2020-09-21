@@ -1,0 +1,11 @@
+framework module DPVLib {
+  umbrella header "DPVLib.h"
+
+  export *
+  module * { export * }
+}
+
+module DPVLib.Swift {
+    header "DPVLib-Swift.h"
+    requires objc
+}

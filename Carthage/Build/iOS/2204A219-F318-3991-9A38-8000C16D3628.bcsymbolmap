@@ -1,0 +1,32 @@
+BCSymbolMap Version: 2.0
+Apple clang version 11.0.3 (clang-1103.0.32.62)
+/Users/lucas/Library/Developer/Xcode/DerivedData/TRBFrameworksMock-fjmektxhgcylkqdzkosdlvtgibtl/Build/Intermediates.noindex/ArchiveIntermediates/PaymentQRCode/IntermediateBuildFilesPath/TRBFrameworksMock.build/Release-iphoneos/PaymentQRCode.build/DerivedSources/PaymentQRCode_vers.c
+/Users/lucas/Documents/Projects/iOS/TRBFrameworksMock
+_$s13PaymentQRCode7KeyPairCMaTm
+_$s13PaymentQRCodeMXM
+_$s13PaymentQRCodeAACML
+_$s13PaymentQRCodeAACMf
+_symbolic _____ 13PaymentQRCodeAAC
+_$s13PaymentQRCodeAACMF
+_$s13PaymentQRCode7KeyPairC06publicC0SSvpWvd
+_$s13PaymentQRCode7KeyPairCML
+_$s13PaymentQRCode7KeyPairCMf
+_symbolic _____ 13PaymentQRCode7KeyPairC
+_symbolic SS
+_$s13PaymentQRCode7KeyPairCMF
+___swift_reflection_version
+_objc_classes
+_$s13PaymentQRCodeAACABycfCTq
+_$s13PaymentQRCode7KeyPairC06publicC0ACSS_tcfCTq
+Apple clang version 11.0.3 (clang-1103.0.32.53)
+<swift-imported-modules>
+Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)
+/Users/lucas/Documents/Projects/iOS/TRBFrameworksMock/PaymentQRCode/PaymentQRCode.swift
+$s13PaymentQRCode7KeyPairCMa
+<compiler-generated>
+deinit
+destroyKey
+keyPairExists
+isPinCorrect
+generateKeyPair
+init
